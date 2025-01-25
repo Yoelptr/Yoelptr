@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Yoel Petro Patintingan
 
-<!--
-**Yoelptr/Yoelptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a list of my tech stack and skills:
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+
+---
+
+
